@@ -1,7 +1,7 @@
 # Telethon-Music
 
 # String Session (Telethon)
-
+Starting picture><https://graph.org/file/f4e32fecd41c0de7a6108.jpg
 <p align="center"><a href="https://replit.com/@Itz-zaid/Generator"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=web" width="220" height="38.45"/></a></p>
 
 # Free Tutorials/Hosting Methods 
